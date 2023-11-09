@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=patamavadee16&compact=true)](https://github.com/patamavadee16/github-readme-stats)
 - [Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=patamavadee16&show_icons=true&bg_color=DEG,ffd5c0,ffc0cb,ffd5c0)
-![](https://github-readme-streak-stats.herokuapp.com/?user=patamavadee16&hide_border=false)<br/>
+- (https://github-readme-streak-stats.herokuapp.com/?user=patamavadee16&hide_border=false)<br/>
